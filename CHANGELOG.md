@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-## [0.0.4](https://github.com/AndrewSouthpaw/crud-muffins/releases/tag/v0.0.4) - 2020-12-03
+## [0.0.5](https://github.com/AndrewSouthpaw/crud-muffins/releases/tag/v0.0.5) - 2020-12-03
 
 #### Added
 
