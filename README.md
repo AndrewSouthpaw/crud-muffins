@@ -22,7 +22,7 @@ $ yarn add crud-muffins
 
 **This package is not transpiled and written with modern JS syntax**. You can add this package to the list of `node_modules` you transpile manually.
 
-Why? My current understanding is that it makes code bundles smaller overall when there's only *one* tranpsilation, as opposed to each module transpiling in its own context. Happy to be convinced otherwise!
+Why? My current understanding is that it makes code bundles smaller overall when there's only *one* transpilation, as opposed to each module transpiling in its own context. Happy to be convinced otherwise!
 
 ## Usage
 
